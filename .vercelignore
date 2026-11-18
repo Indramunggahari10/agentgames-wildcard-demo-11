@@ -1,0 +1,7 @@
+quad/
+test/
+node_modules/
+build/
+.vercel/
+*.log
+.DS_Store
